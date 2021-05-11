@@ -7,12 +7,17 @@ public class App {
 
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
-    System.out.println("집가고싶다!!!");
+    System.out.println("점심시간에 잠깐 회의할까요");
 
-    for (
+    for (int i = 0; i < 5; i++) {
 
-        int i = 0; i < 5; i++) {
-      System.out.println(i);
+      System.out.println(new App().getGreeting());
+      System.out.println("ddddddddddddddddddddddddddddddddd");
+      System.out.println(new App().getGreeting());
+
+      for (i = 0; i < 5; i++) {
+        System.out.println(i);
+      }
     }
   }
 }
