@@ -13,27 +13,13 @@ public class App {
     System.out.println("경도현");
     System.out.println("zzzzzz");
 
-<<<<<<< HEAD
+
     for (int i = 0; i < 5; i++) {
-=======
-    System.out.println("햄버거먹으러가실분 ");
-    System.out.println("햄버거먹으러가실분222 ");
 
-    System.out.println("111111111111");
->>>>>>> branch 'main' of https://github.com/osk2090/test3.git
+      System.out.println("햄버거먹으러가실분 ");
+      System.out.println("햄버거먹으러가실분222 ");
 
-<<<<<<< HEAD
-      System.out.println(new App().getGreeting());
-      System.out.println("ddddddddddddddddddaddddddddddddddd");
-      System.out.println(new App().getGreeting());
-
-      for (i = 0; i < 5; i++) {
-        System.out.println(i);
-      }
+      System.out.println("111111111111");
     }
-=======
-    System.out.println("배고프다");
-    System.out.println("배고프다2222");
->>>>>>> branch 'main' of https://github.com/osk2090/test3.git
   }
 }
