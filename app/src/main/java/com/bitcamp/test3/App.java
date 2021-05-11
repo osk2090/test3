@@ -7,6 +7,12 @@ public class App {
 
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
-    System.out.println("집가고싶다...");
+    System.out.println("집가고싶다!!!");
+
+    for (
+
+        int i = 0; i < 5; i++) {
+      System.out.println(i);
+    }
   }
 }
