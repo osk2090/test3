@@ -10,6 +10,6 @@ public class App {
     System.out.println(new App().getGreeting());
     System.out.println("점심시간에 잠깐 회의할까요");
 
-    System.out.println("다른분들도 푸시좀 해뵈요.... ");
+    System.out.println("햄버거먹으러가실분 ");
   }
 }
