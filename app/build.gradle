@@ -9,7 +9,7 @@ repositories {
 
 eclipse {
     project {
-        name = "test3"
+        name = "team"
     }
 }
 
