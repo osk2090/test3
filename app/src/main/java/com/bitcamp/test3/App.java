@@ -17,5 +17,7 @@ public class App {
 
     System.out.println("배고프다");
     System.out.println("배고프다2222");
+
+    System.out.println("하이 HI~");
   }
 }
