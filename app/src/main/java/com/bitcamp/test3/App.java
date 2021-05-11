@@ -7,9 +7,13 @@ public class App {
   public String getGreeting() {
     return "Hello Java!";
   }
-
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
-    System.out.println("다들 힘내요!");
+
+    for (int i = 0; i < 5; i++) {
+      System.out.println(i);
+
+    }
+    System.out.println("오늘 날씨가 좋네요!");
   }
 }
