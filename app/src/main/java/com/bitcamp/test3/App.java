@@ -9,15 +9,6 @@ public class App {
     System.out.println(new App().getGreeting());
     System.out.println("점심시간에 잠깐 회의할까요");
 
-    for (int i = 0; i < 5; i++) {
-
-      System.out.println(new App().getGreeting());
-      System.out.println("ddddddddddddddddddaddddddddddddddd");
-      System.out.println(new App().getGreeting());
-
-      for (i = 0; i < 5; i++) {
-        System.out.println(i);
-      }
-    }
+    System.out.println("다른분들도 푸시좀 해뵈요.... ");
   }
 }
