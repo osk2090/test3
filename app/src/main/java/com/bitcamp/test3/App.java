@@ -7,6 +7,7 @@ public class App {
   public String getGreeting() {
     return "Hello Java!";
   }
+<<<<<<< HEAD
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
 
@@ -15,5 +16,16 @@ public class App {
 
     }
     System.out.println("오늘 날씨가 좋네요!");
+=======
+
+  public static void main(String[] args) {
+    System.out.println(new App().getGreeting());
+    System.out.println("ddddddddddddddddddddddddddddddddd");
+    System.out.println(new App().getGreeting());
+
+    for (int i = 0; i < 5; i++) {
+      System.out.println(i);
+    }
+>>>>>>> ef847f4b34d770895e0fe5c25caa2c7861d69e8f
   }
 }
