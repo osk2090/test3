@@ -4,17 +4,13 @@ public class App {
   public String getGreeting() {
     return "Hello Java!";
   }
-<<<<<<< HEAD
 
   public static void main(String[] args) {
     System.out.println(new App().getGreeting());
-    System.out.println("경도현");
-=======
-
-  public static void main(String[] args) {
-    System.out.println(new App().getGreeting());
+    System.out.println("이클립스로 푸쉬!");
     System.out.println("점심시간에 잠깐 회의할까요");
     System.out.println("점심시간에요...?");
+    System.out.println("경도현");
 
     for (int i = 0; i < 5; i++) {
 
@@ -26,6 +22,5 @@ public class App {
         System.out.println(i);
       }
     }
->>>>>>> ef847f4b34d770895e0fe5c25caa2c7861d69e8f
   }
 }
