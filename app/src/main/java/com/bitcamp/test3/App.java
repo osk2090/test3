@@ -13,7 +13,7 @@ public class App {
     for (int i = 0; i < 5; i++) {
       System.out.println("햄버거먹으러가실분 ");
       System.out.println("맛있는햄버거");
-      System.out.println("에러 나는 거 푸쉬해서 죄송합니다");
+    System.out.println("햄버거먹으러가실분222 ");
 
 
       System.out.println("햄버거먹으러가실분 ");
